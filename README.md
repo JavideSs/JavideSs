@@ -15,26 +15,17 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <img width="30%" src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" align="right"/>
 
 - 🌱 Coursing a university degree in Computer Science & Engineering at [UA](https://www.ua.es/en/index.html).
-
 - 👨‍💻 I’m currently working on university projects.
-
 - 📚 I’m currently learning different development tools.
-
 - 🔎 I’m looking to get work experience.
-
 - 📫 You can find me at **javimesa01@gmail.com**.
-
 - 🚀 I am always willing to use new technologies to learn.
-
 - 🎮 I enjoy spending my free time playing video games.
-
 - 🌳 I like ride my bike and listen music.
 <!-- - ⚡ <frase> -->
 <!-- - 📜 Here is [my webpage](<url>) and [portfolio](<url>). -->
 
-<br>
 <img style="display:block; margin-left:auto; margin-right:auto; height:100%; width:100%; max-height:5px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"></img>
-<br>
 
 ## 📌 Connect with me
 [![GitHub: JavideSs](https://img.shields.io/github/followers/JavideSs?label=follow&style=social)](https://github.com/JavideSs)
@@ -49,9 +40,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 ## 💻 Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="adobe-premiere-pro" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="adobe-after-effects" width="40" height="40"/>
 
-<br>
 <img style="display:block; margin-left:auto; margin-right:auto; height:100%; width:100%; max-height:5px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"></img>
-<br>
 
 ## 📊 Stats
 ![](https://komarev.com/ghpvc/?username=javidess)
