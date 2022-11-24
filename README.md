@@ -19,6 +19,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 - 📚 I’m currently learning different development tools.
 - 🔎 I’m looking to get work experience.
 - 📫 You can find me at **javimesa01@gmail.com**.
+- 📜 Here is [my portfolio](cv.pdf?raw=true).
 - 🚀 I am always willing to use new technologies to learn.
 - 🎮 I enjoy spending my free time playing video games.
 - 🌳 I like ride my bike and listen music.
