@@ -6,24 +6,24 @@ https://github.com/devicons/devicon/tree/master/icons
 https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1
 https://github.com/anuraghazra/github-readme-stats
 https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://gprm.itsvg.in/
 -->
 
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">Computer Science student <img width="5%" src="https://github.githubassets.com/images/mona-loading-dark.gif"/></h3>
 <br>
 
-<img width="30%" src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" align="right"/>
+<img width="30%" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" align="right"/>
 
 - 🌱 Coursing a university degree in Computer Science & Engineering at [UA](https://www.ua.es/en/index.html).
 - 👨‍💻 I’m currently working on university projects.
-- 📚 I’m currently learning different development tools.
-- 🔎 I’m looking to get work experience.
+- 🚀 I am always willing to use new technologies to learn.
+- 🔎 I'm looking for a team.
 - 📫 You can find me at **javimesa01@gmail.com**.
 - 📜 Here is [my portfolio](cv.pdf?raw=true).
-- 🚀 I am always willing to use new technologies to learn.
-- 🎮 I enjoy spending my free time playing video games.
-- 🌳 I like ride my bike and listen music.
+- 🌳 I like biking and listening to music. 🎵
 <!-- - ⚡ <frase> -->
+<!-- - 📚 I’m currently learning different development tools. -->
 <!-- - 📜 Here is [my webpage](<url>) and [portfolio](<url>). -->
 
 <img style="display:block; margin-left:auto; margin-right:auto; height:100%; width:100%; max-height:5px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"></img>
