@@ -20,7 +20,7 @@ https://gprm.itsvg.in/
 - 🚀 I am always willing to use new technologies to learn.
 - 🔎 I'm looking for a team.
 - 📫 You can find me at **javimesa01@gmail.com**.
-- 📜 Here is [my portfolio](cv.pdf?raw=true).
+- 📜 Here is [my CV](cv.pdf?raw=true).
 - 🌳 I like biking and listening to music. 🎵
 <!-- - ⚡ <frase> -->
 <!-- - 📚 I’m currently learning different development tools. -->
