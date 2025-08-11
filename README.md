@@ -10,13 +10,13 @@ https://gprm.itsvg.in/
 -->
 
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">Computer Science student <img width="5%" src="https://github.githubassets.com/images/mona-loading-dark.gif"/></h3>
+<h3 align="center">Computer Science Engineer <img width="5%" src="https://github.githubassets.com/images/mona-loading-dark.gif"/></h3>
 <br>
 
 <img width="30%" src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" align="right"/>
 
-- 🌱 Coursing a university degree in Computer Science & Engineering at [UA](https://www.ua.es/en/index.html).
-- 👨‍💻 I’m currently working on university projects.
+- 🌱 Finished a university degree in Computer Science & Engineering at [UA](https://www.ua.es/en/index.html).
+- 👨‍💻 I’m currently working on my own projects.
 - 🚀 I am always willing to use new technologies to learn.
 - 🔎 I'm looking for a team.
 - 📫 You can find me at **javimesa01@gmail.com**.
@@ -44,7 +44,5 @@ https://gprm.itsvg.in/
 
 ## 📊 Stats
 ![](https://komarev.com/ghpvc/?username=javidess)
-
-![](https://metrics.lecoq.io/JavideSs)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=javidess&langs_count=6&locale=en&layout=compact&hide_border=true&theme=synthwave&text_color=FFFFFF)
